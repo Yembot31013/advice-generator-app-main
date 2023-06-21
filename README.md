@@ -47,5 +47,5 @@ Users should be able to:
 ## Author
 
 - Website - [Adekojo Adeyemi](https://codewithyembot.vercel.app)
-- Frontend Mentor - [@Yembot31013](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Yembot31013](https://www.frontendmentor.io/profile/Yembot31013)
 - Linkedln - [Adekojo Adeyemi](https://www.linkedin.com/in/adekojo-a-487759226/)
